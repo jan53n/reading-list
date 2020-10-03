@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1601652630784,
-  "index": "/index.html",
+  "timestamp": 1601695551463,
+  "index": "/reading-list/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.ce033544d6c6e32a022b.js",
-        "/polyfills.a4021de53358bb0fec14.js",
-        "/runtime.e227d1a0e31cbccbf8ec.js",
-        "/styles.d65c3543b73953243f0e.css"
+        "/reading-list/favicon.ico",
+        "/reading-list/index.html",
+        "/reading-list/main.ce033544d6c6e32a022b.js",
+        "/reading-list/polyfills.a4021de53358bb0fec14.js",
+        "/reading-list/runtime.e227d1a0e31cbccbf8ec.js",
+        "/reading-list/styles.d65c3543b73953243f0e.css"
       ],
       "patterns": []
     },
@@ -28,24 +28,24 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/MaterialIcons-Regular.ttf",
-        "/assets/Roboto-Regular.ttf",
-        "/assets/favicon.svg"
+        "/reading-list/assets/MaterialIcons-Regular.ttf",
+        "/reading-list/assets/Roboto-Regular.ttf",
+        "/reading-list/assets/favicon.svg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/MaterialIcons-Regular.ttf": "1943803d652750c8ec60415f1e57401c70e72d25",
-    "/assets/Roboto-Regular.ttf": "096c9245b6a192d1403a82848e104a65f578a8ec",
-    "/assets/favicon.svg": "80929ddb90a56685955efd682d33b1116446023c",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "30b6f911ee35574e4ef44833dbfdcd79f7ce9ed2",
-    "/main.ce033544d6c6e32a022b.js": "64748bc47b1ecb839cc902fc2fe99967ab64dd9b",
-    "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
-    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.d65c3543b73953243f0e.css": "a74c73e477f2903ddfebe0be57d93e2863bd5741"
+    "/reading-list/assets/MaterialIcons-Regular.ttf": "1943803d652750c8ec60415f1e57401c70e72d25",
+    "/reading-list/assets/Roboto-Regular.ttf": "096c9245b6a192d1403a82848e104a65f578a8ec",
+    "/reading-list/assets/favicon.svg": "80929ddb90a56685955efd682d33b1116446023c",
+    "/reading-list/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/reading-list/index.html": "cda9d261f5840db303cc8514538e1d909fac8de8",
+    "/reading-list/main.ce033544d6c6e32a022b.js": "64748bc47b1ecb839cc902fc2fe99967ab64dd9b",
+    "/reading-list/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/reading-list/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/reading-list/styles.d65c3543b73953243f0e.css": "a74c73e477f2903ddfebe0be57d93e2863bd5741"
   },
   "navigationUrls": [
     {
