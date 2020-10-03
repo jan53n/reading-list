@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1601695551463,
+  "timestamp": 1601695869029,
   "index": "/reading-list/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "/reading-list/main.ce033544d6c6e32a022b.js",
         "/reading-list/polyfills.a4021de53358bb0fec14.js",
         "/reading-list/runtime.e227d1a0e31cbccbf8ec.js",
-        "/reading-list/styles.d65c3543b73953243f0e.css"
+        "/reading-list/styles.eb9f7fe1c70d0ea42c36.css"
       ],
       "patterns": []
     },
@@ -28,6 +28,8 @@
         "ignoreVary": true
       },
       "urls": [
+        "/reading-list/MaterialIcons-Regular.120b4c7bbd155bd0a04d.ttf",
+        "/reading-list/Roboto-Regular.03523cf578d69fa92322.ttf",
         "/reading-list/assets/MaterialIcons-Regular.ttf",
         "/reading-list/assets/Roboto-Regular.ttf",
         "/reading-list/assets/favicon.svg"
@@ -37,15 +39,17 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/reading-list/MaterialIcons-Regular.120b4c7bbd155bd0a04d.ttf": "1943803d652750c8ec60415f1e57401c70e72d25",
+    "/reading-list/Roboto-Regular.03523cf578d69fa92322.ttf": "096c9245b6a192d1403a82848e104a65f578a8ec",
     "/reading-list/assets/MaterialIcons-Regular.ttf": "1943803d652750c8ec60415f1e57401c70e72d25",
     "/reading-list/assets/Roboto-Regular.ttf": "096c9245b6a192d1403a82848e104a65f578a8ec",
     "/reading-list/assets/favicon.svg": "80929ddb90a56685955efd682d33b1116446023c",
     "/reading-list/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/reading-list/index.html": "cda9d261f5840db303cc8514538e1d909fac8de8",
+    "/reading-list/index.html": "2eb16fedfb073a0a5ae6ea82e4a497c754a3cd4d",
     "/reading-list/main.ce033544d6c6e32a022b.js": "64748bc47b1ecb839cc902fc2fe99967ab64dd9b",
     "/reading-list/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/reading-list/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/reading-list/styles.d65c3543b73953243f0e.css": "a74c73e477f2903ddfebe0be57d93e2863bd5741"
+    "/reading-list/styles.eb9f7fe1c70d0ea42c36.css": "70dfd4b2e5156286a1b058b5299d7d4d3ad6710c"
   },
   "navigationUrls": [
     {
