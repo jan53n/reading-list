@@ -1,0 +1,42 @@
+{
+  "name": "Reading List",
+  "short_name": "ReadingList",
+  "description": "A simple tool to keep track of your reading list",
+  "display": "standalone",
+  "categories": [ "utility", "books", "tracker" ],
+  "theme_color": "#3f51b5",
+  "background_color": "white",
+  "orientation": "any",
+  "lang": "en-US",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "type": "image/svg"
+    }
+  ],
+  "screenshots" : [
+    {
+      "src": "assets/screen_1.png",
+      "sizes": "1366x768",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/screen_1.png",
+      "sizes": "1366x768",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/screen_1.png",
+      "sizes": "1366x768",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts" : [
+    {
+      "name": "Add new book",
+      "url": "/#/books/create",
+      "description": "Create new book and it's read position"
+    }
+  ]
+}
