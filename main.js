@@ -387,7 +387,6 @@ class BookCreateComponent {
         if (form.valid) {
             delete form.value['id'];
             this.readingListDB.table('books').add(form.value).then((response) => {
-                console.log(response);
                 if (response) {
                     this.snackBar.open("Book has been added to the list", null, { duration: 1000 });
                     this.bookForm.stopSpinner();
